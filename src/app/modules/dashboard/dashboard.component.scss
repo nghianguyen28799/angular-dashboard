@@ -1,0 +1,15 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 100px;
+}
+
+.left {
+  width: 60%;
+  height: 100px;
+}
+
+.right {
+  width: 40%;
+  height: 100px;
+}
